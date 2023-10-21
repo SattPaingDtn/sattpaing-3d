@@ -69,7 +69,7 @@ const camera = new THREE.PerspectiveCamera(
   0.1,
   100
 );
-camera.position.z = 30;
+camera.position.z = 9;
 scene.add(camera);
 
 // Renderer
